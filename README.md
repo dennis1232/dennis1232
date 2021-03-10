@@ -50,4 +50,4 @@
 
 
 [linkedin]:https://linkedin.com/in/dennis-nemirovsky-308b19201
-[instegram]:https://www.instagram.com/dennis.nemirovsky/
+[instagram]:https://www.instagram.com/dennis.nemirovsky/
