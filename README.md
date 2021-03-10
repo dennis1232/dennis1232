@@ -1,11 +1,11 @@
 ### Hi there, I'm Dennis Nemirovski [dennis1232]👋
 
-## I'm a Fullstack/Frontend Developer!!
+## I'm a Fullstack/Frontend web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🕵🏽 I’m looking for a job as Fullstack/Frontend web Developer 💻
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Chess
+- ♟ Fun fact: I love to play Chess
 
 
 ### Spotify Playing 🎧
