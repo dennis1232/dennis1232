@@ -1,6 +1,6 @@
 ### Hi there, I'm Dennis Nemirovski [dennis1232]👋
 
-## I'm a Fullstack/Frontend web Developer!!
+## I'm a Frontend Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - ♟ Fun fact: I love to play Chess
