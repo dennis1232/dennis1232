@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Developer!!
 
-- 🌱 I’m currently work as frontend developer at Webiya <img align="left" alt="Webiya" width="26px" src="https://user-images.githubusercontent.com/71782308/184856140-69cce1bc-a328-499e-b80e-855eb0f642f8.png" />
+-  I’m currently work as frontend developer at Webiya <img align="right" alt="Webiya" width="26px" src="https://user-images.githubusercontent.com/71782308/184856140-69cce1bc-a328-499e-b80e-855eb0f642f8.png" />
 - ♟ Fun fact: I love to play Chess
 
 
