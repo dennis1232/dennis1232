@@ -1,6 +1,6 @@
 # Hey there, I'm **Dennis Nemirovski** 👋
 
-### 🚀 Full Stack Developer | 3 Years of Experience | Tennis Enthusiast 🎾 | Chess Lover ♟
+### 🚀 Full Stack Developer | Tennis Enthusiast 🎾 | Chess Lover ♟
 I’m a passionate **Full Stack Developer** with a love for **React**, **Next.js**, **TypeScript**, and **JavaScript** on the frontend, and solid experience in **C# .NET** and **Node.js** on the backend. I focus on building high-quality web applications with clean code and intuitive user interfaces.
 
 ---
