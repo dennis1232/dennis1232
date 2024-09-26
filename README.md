@@ -1,7 +1,3 @@
-Here’s the final version with a more comprehensive and filled-out tech stack:
-
----
-
 # Hey there, I'm **Dennis Nemirovski** 👋
 
 ### 🚀 Full Stack Developer | 3 Years of Experience | Tennis Enthusiast 🎾 | Chess Lover ♟
@@ -60,6 +56,3 @@ I’m a passionate **Full Stack Developer** with a love for **React**, **Next.js
 - ♟ **Chess Addict**: I’m always thinking ahead—whether on the board or in code.
 - 🔄 **Lifelong Learner**: I constantly push myself to explore new technologies and solve complex problems.
 
----
-
-This version includes your complete **tech stack** with key technologies, making it more comprehensive and eye-catching! It’s designed to give an overview of all your skills while maintaining a sleek, modern look.
