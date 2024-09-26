@@ -1,13 +1,10 @@
 # Hey there, I'm **Dennis Nemirovski** 👋
 
 ### 🚀 Full Stack Developer | 3 Years of Experience | Tennis Enthusiast 🎾 | Chess Lover ♟
-
 I’m a passionate **Full Stack Developer** with a love for **React**, **Next.js**, **TypeScript**, and **JavaScript** on the frontend, and solid experience in **C# .NET** and **Node.js** on the backend. I focus on building high-quality web applications with clean code and intuitive user interfaces.
 
 ---
-
 ## 🛠 Tech Stack
-
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -18,14 +15,12 @@ I’m a passionate **Full Stack Developer** with a love for **React**, **Next.js
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![C# .NET](https://img.shields.io/badge/-C%23%20.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -35,21 +30,15 @@ I’m a passionate **Full Stack Developer** with a love for **React**, **Next.js
 ![Terminal](https://img.shields.io/badge/-Terminal-000000?style=flat&logo=powershell&logoColor=white)
 
 ---
-
 ## 🔗 Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennis-nemirovsky-308b19201)
 
 ---
-
 ### 👨‍💻 What I'm Working On
-
 - Building **high-performance** web apps with **React**, **Next.js**, and **TypeScript**.
 - Crafting beautiful UIs with **Material UI** and **Tailwind CSS** for optimal user experiences.
 - Expanding my backend expertise with **Node.js**, **Express**, and **C# .NET** to deliver scalable solutions.
-
 ---
-
 ### 🌱 Fun Facts About Me
 
 - 🎾 **Tennis Enthusiast**: My love for tennis keeps me sharp and focused, just like coding!
